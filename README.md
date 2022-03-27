@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nelsonmwangi197@gmail.com**
 
-- ⚡ Impossible fact **I have a girlfriend.**
+- ⚡ True fact **I may have a girlfriend.**
 
 ## 🚀 Languages and Tools:
 
