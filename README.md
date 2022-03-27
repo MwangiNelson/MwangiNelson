@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I'm+Nelson..;Coding+is+what+I+do...;However,;Codes+are+like+cathedrals;After+building+them,;Prayer+keeps+them+running)](https://git.io/typing-svg)
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nelson</h1>
