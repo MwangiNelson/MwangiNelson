@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+👋,+I'm+Nelson...;I+like+coding+👨🏽‍💻;I+can+code+in+light+mode+😤;Also+I+don't+put+pineapples+on+my+pizza+🍕)](https://git.io/typing-svg)
 
-<a href="#"><img width="100%" height="auto" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-flat-kids-programming-png-image_5401917.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="http://cdn.onlinewebfonts.com/svg/img_565446.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nelson</h1>
 <h3 align="center">I like coding</h3>
