@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I'm+Nelson..;I+like+coding;Best+advice...;Be+yourself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I'm+Nelson..;I+like+coding;Feel+free+to+look+at+my+codes;I+don't+put+pineapples+on+my+pizza)](https://git.io/typing-svg)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
