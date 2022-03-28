@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+👋,+I'm+Nelson...;I+like+coding+👨🏽‍💻;I+can+code+in+light+mode+😤;Also+I+don't+put+pineapples+on+my+pizza+🍕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+👋,+I'm+Nelson...;I+like+coding+👨🏽‍💻;MARVEL+>+DC+👌)](https://git.io/typing-svg)
 
 <h1 width="100%" align="center" href="#"><img width="50%" src="https://clipground.com/images/coding-png-11.png" height="auto"/></h1>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nelson</h1>
-<h3 align="center">I like coding</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -13,7 +10,7 @@
 
 - 📫 How to reach me **nelsonmwangi197@gmail.com**
 
-- ⚡ True fact **I may have a girlfriend.**
+- ⚡ Stand Name **Heaven's Door.**
 
 ## 🚀 Languages and Tools:
 
