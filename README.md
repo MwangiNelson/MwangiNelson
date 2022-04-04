@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hi there👋... +I'm+Nelson...;I+like+coding+👨🏽‍💻;MARVEL+>+DC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=+Hi there👋... +I'm+Nelson...;I+like+coding+👨🏽‍💻;MARVEL+>+DC)](https://git.io/typing-svg)
 
 <h1 width="100%" align="center" href="#"><img width="50%" src="https://clipground.com/images/coding-png-11.png" height="auto"/></h1>
 
