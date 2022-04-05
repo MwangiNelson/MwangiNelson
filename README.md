@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nelsonmwangi197@gmail.com**
 
-- ⚡ Stand Name **Heaven's Door.**
+- ⚡ Fun fact **The World** is a **stand**. 
 
 ## 🚀 Languages and Tools:
 
