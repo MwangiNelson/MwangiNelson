@@ -8,7 +8,7 @@
 <h1 width="100%" align="center" href="#"><img width="50%" src="https://clipground.com/images/coding-png-11.png" height="auto"/></h1>
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">  About Me
+## 👋 About Me
 
 
 
